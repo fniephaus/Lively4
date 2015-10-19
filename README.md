@@ -10,3 +10,5 @@ https://livelykernel.github.io/lively4-core/draft/test.html which is an automati
 Currently, the test pages and the core is cramed together, but we will pull them appart as soon as the core will stabalize and we can use it to host and edit arbitraty content from GitHub repositories. The commit history of this repository consists mainly of auto commits generated either by editing files from within Lively4 or from rapidly commiting from an external editor.
 
 Since we rely at the momemnt on an not controllable mechanism that somewhow makes files pushed to gh-pages@lively4-core available on the github.io page, the feedback cycle can get rather unpredictable. We hope to get rid of this after our service worker can fetch files from github itself.  
+
+User stories and other issues that are worked will be handled as [issues](https://github.com/LivelyKernel/Lively4/issues). Even though we still might have some [physical representations](https://github.com/LivelyKernel/Lively4/wiki/UserStories) flying around our office from time to time... We will digitize them as needed. 
